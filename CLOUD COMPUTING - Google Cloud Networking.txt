@@ -1,0 +1,107 @@
+--------------------------------------
+				Quiz 1
+--------------------------------------
+Which of the following are types of networks in GCP?
+...All the options
+
+An internal IP is assigned to a VM through which of the following protocol?
+...DHCP
+
+Which of the following is the DNS Resolver for a VM Instance?
+...Metadata Server
+
+Which of the following feature enables to assign a range of IP addresses as aliases to a VM network interface?
+...Alias IP Ranges
+
+Infrastructure resources in GCP are organized under?
+...Projects
+
+--------------------------------------
+				Quiz 2
+--------------------------------------
+
+________ is used for direct physical connection between on-premises and Google network.
+...Dedicated Interconnect
+
+Which of the following protocol is used to route traffic among different internet service providers?
+...BGP
+
+What is the address space used by VPC networks in network peering?
+...RFC 1918
+
+Cloud VPN is suitable for which of the following connection?
+...<10 GBPS
+
+--------------------------------------
+				Quiz 3
+--------------------------------------
+
+Which of the following is helpful for Logging and Monitoring in GCP Networking?
+...VPC Flow Logs
+
+Which of the following is used to provide an entry to a network that contains private instances?
+...Bastion host
+
+Which of the following can provide automated network deployment?
+...Terraform and Cloud Formation
+
+Cloud Router can advertise _________ subnets.
+...Regional
+
+Which of the following is used to load balance on systems, based on protocol type?
+...Network Load Balancing
+
+Which of the following is used to distribute traffic within a GCP network?
+...Internal Load Balancing
+
+--------------------------------------
+				Final Quiz
+--------------------------------------
+
+Internal IP is assigned to a VM through which of the following protocol?
+...DHCP
+
+Which of the following routes can be included in VPC networks?
+...All the options
+
+What is the address space that is used by VPC networks in network peering?
+...RFC 1918
+
+VPC network and subnet can have same name.
+...False
+
+Which of the following is the DNS Resolver for a VM Instance?
+...Metadata Server
+
+Which of the following is used to provide an entry to a network that contains private instances?
+...Bastion host
+
+Which of the following operational tasks comes under VPC Flow Logs?
+...All the options
+
+What load balancing is used to choose a single IP address for all users to route traffic?
+NO...HTTP Load Balancing
+
+What type of traffic is allowed from VMs to Google APIs and Services to use Private Google Access?
+NO...Ingress and Egress traffic
+
+Which of the following option(s) can provide automated network deployment?
+...Terraform and CloudFormation
+
+Which of the following is true about Cloud NAT IP?
+...Regional
+
+Which of the following are types of networks in GCP?
+...All the options
+
+VPC network peering does not support which of the following networks?
+...Legacy Networks
+
+Cloud VPN is suitable for which of the following connection?
+...<10GBPS
+
+VPC Network Peering supports Shared VPC Network in it
+...True
+
+Which of the following load balancing is used to load balance on systems, based on protocol type?
+...Network Load Balancing

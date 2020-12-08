@@ -1,0 +1,166 @@
+------------------------------------------
+Google Cloud Platform - Quiz
+------------------------------------------
+Which of the following billing processes is adopted by Google Cloud for Compute Engine?
+...Per second billing
+
+Which of the following services is/are provided by the Google Cloud Platform?
+...All the options
+
+Which of the following models is used in the Google Cloud Platform?
+...Pay-for-use
+
+You can create Virtual Machines without creating Virtual Networks.
+...False
+
+A compute engine consists of a maximum of ____________ virtual machines.
+...96
+
+Which of the following images can be installed in the GCP Virtual Machines?
+...All the options
+
+------------------------------------------
+			Storage - Quiz
+------------------------------------------
+
+Which of the following is correct about Cloud Spanner?
+...Globally Scalable
+
+Which of the following database services are provided by Cloud SQL?
+...MySQL and Postgre SQL
+
+Which of the following features is/are supported by Cloud Datastore?
+...All the options
+
+Cloud Storage stores the data in ___________.
+...Buckets
+
+Which of the following features is supported by Cloud Bigtable?
+...Scalability
+
+For which of the following types of data does GCP provide storage?
+...All the options
+
+------------------------------------------
+	Kubernetes and App Engine - Quiz
+------------------------------------------
+
+Which of the following API management tools is/are used by GCP to log and monitor the APIs?
+...Cloud Endpoints
+
+App Engine Standard Environment supports which of the following programming languages?
+...All the options
+
+Google Kubernetes comes under which of the following services?
+...None of the options
+
+Which of the following commands is used to check the deployment of whether replicas are running in a cluster?
+...Both kubectl get deployments and kubectl describe deployments
+
+App Engine comes under which of the following services?
+...PaaS
+
+Which of the following orchestrator tools is used by GCP for its containers?
+...Kubernetes
+
+------------------------------------------
+	Development and Big Data - Quiz
+------------------------------------------
+
+Which of the following Machine Learning APIs is used to convert audio to text?
+...Cloud Speech API
+
+How many functions are supported by the MapReduce model?
+...2
+
+Which of the following is used to automate the creation and management of resources in GCP?
+...Deployment Manager
+
+ETL functions are supported by which of the following services in GCP?
+...Cloud Dataflow
+
+Which of the following architectures is supported by Cloud Functions?
+...Microservices Architecture
+
+Which of the following code repositories is provided by the Google Cloud Platform?
+...Cloud Source Repository
+
+------------------------------------------
+				Final Quiz
+------------------------------------------
+
+App Engine scales its applications based on _______________.
+NO ES...All the options
+
+Which of the following architectures supports both Flexible and Standard environments at a time in an application?
+NO ES...All the options
+
+Which of the following models is used in the Google Cloud Platform?
+...Pay-for-use
+
+Templates in GCP are created by which of the following languages?
+...Python and YAML
+
+Which of the following features is supported by Cloud Bigtable?
+...Scalability
+
+Google Kubernetes comes under which of the following services?
+...None of the options
+
+Which of the following is considered as the top node of Resource Hierarchy?
+...Organization node
+
+Which of the following storage contents will be erased when a Virtual Machine terminates?
+...Local SSD
+
+Which of the following commands is used to start Kubernetes in a cluster in GKE?
+...gcloud container cluster create k1
+
+Which of the following code repositories is provided by the Google Cloud Platform?
+...Cloud Source Repository
+
+App Engine Standard Environment supports which of the following programming languages?
+...All the options
+
+Which of the following commands is used to get the External IP of the service?
+NO ES...kubectl get pods
+
+Which of the following APIs is supported by Google Cloud Bigtable?
+...Apache HBase API
+
+ETL functions are supported by which of the following services in GCP?
+...Cloud Dataflow
+
+Which of the following commands is used to check the deployment of whether replicas are running in a cluster?
+...Both kubetcl get deployments and kubectl describe deployments
+
+You can create Virtual Machines without creating Virtual Networks.
+...False
+
+You can export logs from Stackdriver logging to which of the following services in GCP?
+...All the options
+
+Which of the following Google applications uses Cloud Machine Learning?
+...All the options
+
+Which of the following is/are considered as members of Google Cloud IAM?
+...All the options
+
+How many functions are supported by the MapReduce model?
+...2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
