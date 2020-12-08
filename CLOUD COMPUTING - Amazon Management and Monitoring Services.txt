@@ -1,0 +1,149 @@
+--------------------------------------------
+					Quiz 1
+--------------------------------------------
+
+In template schema, _______ is the only mandatory argument that must be defined.
+...Resources
+
+IaC is a key DevOps practice, and is used in conjunction with _____________.
+...Continuous Delivery
+
+Deletion of stack results in deletion of all resources created by the stack.
+...True
+
+AWS CloudFormation is a free service provision.
+...True
+
+In an AWS design template, the “depends on” property of a resource is represented by an _________ color dot.
+...Orchid
+
+CloudFormation can be integrated with both Chef and Puppet DevOps tools.
+...True
+
+Which of the following is not an IaC tool?
+...Git
+
+Which of the following intrinsic functions returns the output of another stack?
+...Fn :: ImportValue
+
+Deletion of stack results in deletion of all resources created by the stack.
+...True
+
+Which of the following is used to pass information such as username and password to a template?
+...Parameters
+
+Nested stacks in AWS will have many parent stacks, and _______ root stack.
+...One
+
+------------------------------------------------
+				Quiz - CloudWatch
+------------------------------------------------
+
+Which of the following services support detailed monitoring only?
+...ELB
+
+For high resolution metrics, the data points of metrics lesser than 60 seconds are stored for __________.
+...3 hours
+
+Custom metrics monitoring is always __________ monitoring.
+...Detailed
+
+CloudWatch does not automatically provide metrics for _____________.
+...Memory Usage
+
+The bucket created by CloudTrail has a unique _________ attached to it.
+...BucketPolicy
+
+CloudTrail events are saved in event history for a duration of ___ days.
+...90
+
+The expiration time for CloudWatch metrics is _________.
+...15 months
+
+Metrics from on-premise servers and applications can be collected by using CloudWatch.
+...True
+
+Basic monitoring is done in __________intervals and is free.
+...5-minute
+
+--------------------------------------------------------
+		Quiz - CloudTrail and CloudFront
+--------------------------------------------------------
+
+The number of trails you can have per region are _____.
+...5
+
+CloudTrail events are saved in event history for a duration of ___ days.
+...90
+
+The CloudTrail log file integrity validation process validates if logs are altered or not.
+...True
+
+CloudFront becomes futile in which of the following cases?
+...Requests coming from a single place
+
+If an S3-origin is configured as a website endpoint, does it support RTMP distribution?
+...No
+
+CloudTrail logs are ________ files.
+...JSON
+
+Which of the following service is used to stream on-demand video for users using CloudFront?
+...Elemental media convert
+
+------------------------------------------------
+				Final Assessment
+------------------------------------------------
+
+CloudFormation can be integrated with both Chef and Puppet DevOps tools.
+...True
+
+CloudTrail events are saved in the event history for a duration of _______ days.
+...90
+
+CloudWatch does not automatically provide metrics for _____________.
+...Memory Usage
+
+Custom metrics monitoring is always __________ monitoring.
+...Detailed
+
+Deletion of stack results in deletion of all resources created by the stack.
+...True
+
+The default retention period of an SQS message in a queue is______.
+...4 days
+
+What queue is preferred for duplication of messages?
+...FIFO
+
+The maximum size of a single published message is _______.
+...256 kb
+
+The bucket created by CloudTrail has a unique _________ attached to it.
+...BucketPolicy
+
+The expiration time for CloudWatch metrics is _________.
+...15 months
+
+CloudFront offers security at both the 4th and 7th layer of the OSI application model.
+...True
+
+Which of the following methods help CloudFront make users request content through signed URLs?
+...OIA
+
+Alarms can be used to send notifications to users, and to perform actions on behalf of the user.
+...True
+
+SNS is a ______ delivery system and SQS is a ________ delivery system.
+...push, pull
+
+---------------------------
+			OTROS
+---------------------------
+
+The maximum retention period for CloudWatchlogs is?
+...10 years
+
+High resolution metrics can be read and retrieved at ________ intervals.
+...All the options
+
